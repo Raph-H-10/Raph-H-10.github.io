@@ -1,8 +1,8 @@
-\### Raph's Website
+### Raph's Website
 
-\*\*Started\*\*: 06/03/2026
+**Started**: 06/03/2026
 
-\*\*Role\*\*: Software Developer
+**Role**: Software Developer
 
-\*\*Hobbies\*\*: Football(soccer), Volleyball, Gaming (Rouguelikes, Chess)
+**Hobbies**: Football(soccer), Volleyball, Gaming (Rouguelikes, Chess)
 
